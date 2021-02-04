@@ -4,6 +4,7 @@ import Nav from "react-bootstrap/Nav";
 export default function SiteNavbar() {
   return (
     <Navbar
+      id="home"
       bg="light"
       variant="light"
       fixed="top"
